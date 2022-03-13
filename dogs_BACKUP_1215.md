@@ -8,5 +8,8 @@
 6. Poodles
 7. Chihuahua
 8. Alaskan Malamute
+<<<<<<< HEAD
 9. Golden Retriever
-10. Rottweiler
+=======
+9. Rottweiler
+>>>>>>> new-dog
